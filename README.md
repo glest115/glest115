@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on **Development of Intelligence Services**
-- 🌱 I’m currently learning **Generative AI / LLM**
+- 🌱 I’m currently learning **Generative AI / LLM Technologies**
 
 <br/>
 <h2 font-weight="bold" align="center">
